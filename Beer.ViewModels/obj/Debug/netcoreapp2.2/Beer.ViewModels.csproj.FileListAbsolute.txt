@@ -1,0 +1,9 @@
+D:\Projects\Exelia\Beer\Beer.ViewModels\bin\Debug\netcoreapp2.2\Beer.ViewModels.deps.json
+D:\Projects\Exelia\Beer\Beer.ViewModels\bin\Debug\netcoreapp2.2\Beer.ViewModels.dll
+D:\Projects\Exelia\Beer\Beer.ViewModels\bin\Debug\netcoreapp2.2\Beer.ViewModels.pdb
+D:\Projects\Exelia\Beer\Beer.ViewModels\obj\Debug\netcoreapp2.2\Beer.ViewModels.csproj.CoreCompileInputs.cache
+D:\Projects\Exelia\Beer\Beer.ViewModels\obj\Debug\netcoreapp2.2\Beer.ViewModels.AssemblyInfoInputs.cache
+D:\Projects\Exelia\Beer\Beer.ViewModels\obj\Debug\netcoreapp2.2\Beer.ViewModels.AssemblyInfo.cs
+D:\Projects\Exelia\Beer\Beer.ViewModels\obj\Debug\netcoreapp2.2\Beer.ViewModels.dll
+D:\Projects\Exelia\Beer\Beer.ViewModels\obj\Debug\netcoreapp2.2\Beer.ViewModels.pdb
+D:\Projects\Exelia\Beer\Beer.ViewModels\obj\Debug\netcoreapp2.2\Beer.ViewModels.csprojAssemblyReference.cache
