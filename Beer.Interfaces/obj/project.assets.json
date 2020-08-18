@@ -724,11 +724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Exelia\\Beer\\Beer.Interfaces\\Beer.Interfaces.csproj",
+      "projectUniqueName": "D:\\Projects\\Misc\\Beer\\Beer.Interfaces\\Beer.Interfaces.csproj",
       "projectName": "Beer.Interfaces",
-      "projectPath": "D:\\Projects\\Exelia\\Beer\\Beer.Interfaces\\Beer.Interfaces.csproj",
+      "projectPath": "D:\\Projects\\Misc\\Beer\\Beer.Interfaces\\Beer.Interfaces.csproj",
       "packagesPath": "C:\\Users\\ars_z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Exelia\\Beer\\Beer.Interfaces\\obj\\",
+      "outputPath": "D:\\Projects\\Misc\\Beer\\Beer.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -747,11 +747,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Projects\\Exelia\\Beer\\Beer.Models\\Beer.Models.csproj": {
-              "projectPath": "D:\\Projects\\Exelia\\Beer\\Beer.Models\\Beer.Models.csproj"
+            "D:\\Projects\\Misc\\Beer\\Beer.Models\\Beer.Models.csproj": {
+              "projectPath": "D:\\Projects\\Misc\\Beer\\Beer.Models\\Beer.Models.csproj"
             },
-            "D:\\Projects\\Exelia\\Beer\\Beer.ViewModels\\Beer.ViewModels.csproj": {
-              "projectPath": "D:\\Projects\\Exelia\\Beer\\Beer.ViewModels\\Beer.ViewModels.csproj"
+            "D:\\Projects\\Misc\\Beer\\Beer.ViewModels\\Beer.ViewModels.csproj": {
+              "projectPath": "D:\\Projects\\Misc\\Beer\\Beer.ViewModels\\Beer.ViewModels.csproj"
             }
           }
         }

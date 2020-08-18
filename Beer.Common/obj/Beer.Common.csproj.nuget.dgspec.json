@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Exelia\\Beer\\Beer.Common\\Beer.Common.csproj": {}
+    "D:\\Projects\\Misc\\Beer\\Beer.Common\\Beer.Common.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Exelia\\Beer\\Beer.Common\\Beer.Common.csproj": {
+    "D:\\Projects\\Misc\\Beer\\Beer.Common\\Beer.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Exelia\\Beer\\Beer.Common\\Beer.Common.csproj",
+        "projectUniqueName": "D:\\Projects\\Misc\\Beer\\Beer.Common\\Beer.Common.csproj",
         "projectName": "Beer.Common",
-        "projectPath": "D:\\Projects\\Exelia\\Beer\\Beer.Common\\Beer.Common.csproj",
+        "projectPath": "D:\\Projects\\Misc\\Beer\\Beer.Common\\Beer.Common.csproj",
         "packagesPath": "C:\\Users\\ars_z\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Exelia\\Beer\\Beer.Common\\obj\\",
+        "outputPath": "D:\\Projects\\Misc\\Beer\\Beer.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

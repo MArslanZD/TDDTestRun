@@ -7,3 +7,12 @@ D:\Projects\Exelia\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.Assembly
 D:\Projects\Exelia\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.dll
 D:\Projects\Exelia\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.pdb
 D:\Projects\Exelia\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.csprojAssemblyReference.cache
+D:\Projects\Misc\Beer\Beer.Models\bin\Debug\netcoreapp2.2\Beer.Models.deps.json
+D:\Projects\Misc\Beer\Beer.Models\bin\Debug\netcoreapp2.2\Beer.Models.dll
+D:\Projects\Misc\Beer\Beer.Models\bin\Debug\netcoreapp2.2\Beer.Models.pdb
+D:\Projects\Misc\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.csprojAssemblyReference.cache
+D:\Projects\Misc\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.csproj.CoreCompileInputs.cache
+D:\Projects\Misc\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.AssemblyInfoInputs.cache
+D:\Projects\Misc\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.AssemblyInfo.cs
+D:\Projects\Misc\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.dll
+D:\Projects\Misc\Beer\Beer.Models\obj\Debug\netcoreapp2.2\Beer.Models.pdb

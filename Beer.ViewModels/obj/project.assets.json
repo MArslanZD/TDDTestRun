@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Exelia\\Beer\\Beer.ViewModels\\Beer.ViewModels.csproj",
+      "projectUniqueName": "D:\\Projects\\Misc\\Beer\\Beer.ViewModels\\Beer.ViewModels.csproj",
       "projectName": "Beer.ViewModels",
-      "projectPath": "D:\\Projects\\Exelia\\Beer\\Beer.ViewModels\\Beer.ViewModels.csproj",
+      "projectPath": "D:\\Projects\\Misc\\Beer\\Beer.ViewModels\\Beer.ViewModels.csproj",
       "packagesPath": "C:\\Users\\ars_z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Exelia\\Beer\\Beer.ViewModels\\obj\\",
+      "outputPath": "D:\\Projects\\Misc\\Beer\\Beer.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

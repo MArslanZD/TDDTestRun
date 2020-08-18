@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Exelia\\Beer\\Beer.Models\\Beer.Models.csproj",
+      "projectUniqueName": "D:\\Projects\\Misc\\Beer\\Beer.Models\\Beer.Models.csproj",
       "projectName": "Beer.Models",
-      "projectPath": "D:\\Projects\\Exelia\\Beer\\Beer.Models\\Beer.Models.csproj",
+      "projectPath": "D:\\Projects\\Misc\\Beer\\Beer.Models\\Beer.Models.csproj",
       "packagesPath": "C:\\Users\\ars_z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Exelia\\Beer\\Beer.Models\\obj\\",
+      "outputPath": "D:\\Projects\\Misc\\Beer\\Beer.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

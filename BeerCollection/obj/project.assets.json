@@ -13029,11 +13029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Exelia\\Beer\\BeerCollection\\BeerCollection.csproj",
+      "projectUniqueName": "D:\\Projects\\Misc\\Beer\\BeerCollection\\BeerCollection.csproj",
       "projectName": "BeerCollection",
-      "projectPath": "D:\\Projects\\Exelia\\Beer\\BeerCollection\\BeerCollection.csproj",
+      "projectPath": "D:\\Projects\\Misc\\Beer\\BeerCollection\\BeerCollection.csproj",
       "packagesPath": "C:\\Users\\ars_z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Exelia\\Beer\\BeerCollection\\obj\\",
+      "outputPath": "D:\\Projects\\Misc\\Beer\\BeerCollection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13052,8 +13052,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Projects\\Exelia\\Beer\\Beer.Repository\\Beer.Repository.csproj": {
-              "projectPath": "D:\\Projects\\Exelia\\Beer\\Beer.Repository\\Beer.Repository.csproj"
+            "D:\\Projects\\Misc\\Beer\\Beer.Repository\\Beer.Repository.csproj": {
+              "projectPath": "D:\\Projects\\Misc\\Beer\\Beer.Repository\\Beer.Repository.csproj"
             }
           }
         }

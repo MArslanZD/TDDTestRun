@@ -12,7 +12,7 @@ namespace BeerCollection.Controllers
 {
     [Produces("application/json")]
     [Route("api/beers")]
-    [ApiController]
+    [ApiController()]
     public class Beer : ControllerBase
     {
         private readonly IBeer _beers;

@@ -1,0 +1,11 @@
+D:\Projects\Misc\Beer\BasicTDDCalc\bin\Debug\netcoreapp2.2\BasicTDDCalc.deps.json
+D:\Projects\Misc\Beer\BasicTDDCalc\bin\Debug\netcoreapp2.2\BasicTDDCalc.runtimeconfig.json
+D:\Projects\Misc\Beer\BasicTDDCalc\bin\Debug\netcoreapp2.2\BasicTDDCalc.runtimeconfig.dev.json
+D:\Projects\Misc\Beer\BasicTDDCalc\bin\Debug\netcoreapp2.2\BasicTDDCalc.dll
+D:\Projects\Misc\Beer\BasicTDDCalc\bin\Debug\netcoreapp2.2\BasicTDDCalc.pdb
+D:\Projects\Misc\Beer\BasicTDDCalc\obj\Debug\netcoreapp2.2\BasicTDDCalc.csprojAssemblyReference.cache
+D:\Projects\Misc\Beer\BasicTDDCalc\obj\Debug\netcoreapp2.2\BasicTDDCalc.csproj.CoreCompileInputs.cache
+D:\Projects\Misc\Beer\BasicTDDCalc\obj\Debug\netcoreapp2.2\BasicTDDCalc.AssemblyInfoInputs.cache
+D:\Projects\Misc\Beer\BasicTDDCalc\obj\Debug\netcoreapp2.2\BasicTDDCalc.AssemblyInfo.cs
+D:\Projects\Misc\Beer\BasicTDDCalc\obj\Debug\netcoreapp2.2\BasicTDDCalc.dll
+D:\Projects\Misc\Beer\BasicTDDCalc\obj\Debug\netcoreapp2.2\BasicTDDCalc.pdb
